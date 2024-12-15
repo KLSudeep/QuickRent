@@ -103,22 +103,13 @@ Copy code
 npm run dev
 Vite will launch the application and provide a local development URL, typically:
 
+
 bash
-Copy code
-  VITE vX.X.X  ready in Xms
 
   Local:   http://localhost:5173/
   Network: use --host to expose
 Visit http://localhost:5173 (or the provided URL) in your browser to see the application running locally.
 
-8. Build for Production (Optional)
-If you wish to build the app for production, use this command:
 
-bash
-Copy code
-npm run build
-This command will create an optimized production build inside the dist/ folder. You can deploy it to your preferred hosting platform from there.
 
-9. Open the Project in Your Browser
-Once the server is running, open your browser and navigate to the URL provided by Vite (usually http://localhost:5173) to view the QuickRent application.
 
