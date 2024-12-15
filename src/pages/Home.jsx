@@ -21,7 +21,7 @@ const Home = () => {
           QuickRent - Rent Gadgets Anytime
         </h1>
         <p className="text-2xl text-gray-200 animate-fadeIn">
-        Unlock the Power of Instant Rentals – Get What You Need, When You Need It!
+        Unlock the Power of Instant Rentals - Get What You Need, When You Need It!
         </p>
         <div>
         <Link
