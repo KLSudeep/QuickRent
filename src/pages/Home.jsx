@@ -20,7 +20,7 @@ const Home = () => {
         <h1 className="text-5xl font-extrabold tracking-wide animate-slideDown">
           QuickRent - Rent Gadgets Anytime
         </h1>
-        <p className="text-2xl text-gray-200 animate-fadeIn">
+        <p className="text-2xl  text-yellow-100 animate-fadeIn">
         Unlock the Power of Instant Rentals - Get What You Need, When You Need It!
         </p>
         <div>
